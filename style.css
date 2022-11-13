@@ -1,0 +1,262 @@
+.nav{
+    margin-top: 20px;
+   
+}
+.nav-link button{
+    border: 0;
+    background-color: #21B573;
+    border-radius:33px;
+    width: 80px;
+    height: 43px;
+    padding: 12px,28,12px,28px;
+    color: #FFFFFF;
+    
+}
+.navbar-brand img{
+    width: 118px;
+    height:29px;
+    top: 45px;
+    left: 292px;    
+}
+
+
+.books{
+    margin-right:50px;
+}
+.courses{
+    margin-right: 50px;
+}
+.other{
+    margin-right: 50px;
+}
+.containe{
+    width: 100%;
+    height: 576px;
+    background-color: #F0FFF0;
+    
+    
+}
+.navbar{
+    margin: 0 20px;
+}
+.illustration{
+    width: 440px;
+    height: 261px;
+    left: 38.47px;
+    bottom: 100px;
+    opacity: 90%;
+}
+.col h4{
+    color:#FD511A ;
+    font-family:'poppins';
+    line-height: 24px;
+}
+.col h1{
+    color: #000000;
+    font-family: 'poppins';
+    font-weight: bold;
+    line-height: 50px;
+}
+.col span{
+    color: #21B573;
+    font-size: 48px;
+}
+.col p{
+    font-family: 'poppins';
+    font-size: 16px;
+    color:#6C6B6B ;
+    line-height: 36px;
+    width: 400;
+}
+.col button{
+    background-color: #21B573;
+    color: #FFFFFF;
+    font-family: 'roboto';
+    border: 0;
+    border-radius: 33px;
+    width: 153px;
+    height: 43px;
+}
+.container{
+    margin-top: 50px;
+
+}
+.icons{
+    margin-top: 200px;
+}
+.card-img-top{
+    width: 68px;
+    height: 76px;
+   margin: 0 auto;
+   margin-top:10px;
+}
+.card-body{
+    margin: 0 auto;
+}
+.card-header{
+    border: 0;
+    background-color:  #F8FFFB;
+    margin: 0 5px;
+    height: 270px;
+    width: 270px;
+    
+
+}
+.card.hover:hover{
+    border:2px solid orangered;
+}
+.box{
+ background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px
+}
+.card-school{
+    width: 331px;
+    height: 234px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.h-100.card-img-top{
+    width: 380px;
+}
+.card{
+   border: 0;
+   
+
+}
+.h-100{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    
+}
+  .h-100:hover{
+    border: 2px solid blue;
+    
+  }  
+html{
+    scroll-behavior: smooth;
+}
+
+   
+    
+
+.image-size{
+    width: 120px;
+    height: 120px;
+}
+.flex-box{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.container h2{
+    text-align: center;
+    line-height: 150px;
+    font-weight: bold;
+    font-family: "poppins";
+}
+.flex-box p{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 70px;
+    text-align: justify;
+    padding: 5px;
+}
+.flex-box section
+{
+    flex-shrink: 1;  
+}
+footer{
+    height: px;
+    background-color:#282531 ;
+}
+.footer-blog p{
+    color:#ffffff ;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: "poppins";
+    margin-top: 50px;
+}
+.footer-blog h6{
+    color:#FFFFFF ;
+    font-family: "poppins";
+    font-size: 18px;
+    line-height: 30px;
+    
+}
+.footer-blog h3{
+    color: #ffffff;
+    font-family: "poppins";
+    line-height: 30px;
+
+}
+.footer-blog h6{
+    color:#ffffff;
+    font-family: "poppins";
+    font-size: 18px;
+    line-height: 30px;
+}
+.footer-blog h3{
+    color:#ffffff;
+    font-family: "poppins";
+    line-height: 30px;
+
+}
+.footer-blog{
+    margin-top: 50px;
+}
+.footer-blog{
+    margin-top: 50px;
+}
+
+
+.d-flex{
+    font-size: 16px;
+    color:#ffffff ;
+    margin-top: 60px;
+    padding-bottom: 15px;
+}
+.courses-icon{
+    height:40px;
+    width: 40px;
+
+}
+.courses-icon{
+    padding-left: 5px;
+    padding-bottom:10px;
+
+}
+.col b{
+    font-family: "poppins";
+    color:#585859 ;
+    font-size: 16px;
+}
+.people-icon{
+    height:30px;
+    width: 30px;
+}
+.card-bottom img{
+    height: 30px;
+    width: 30px;
+    
+    
+}
+.margin-right{
+    padding: 10px;
+    
+}
+.card-bottom{
+    display: flex;
+    
+}
+.card-bottom b{
+    margin-top: 5px;
+    font-family: "poppins";
+    color:#585859 ;
+    font-size: 16px;
+}
+.margin-left{
+    margin-left: 100px;
+}
